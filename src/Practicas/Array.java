@@ -48,7 +48,7 @@ public class Array {
 
         //int[] numeros = {5,9,10};
 
-        // (comentando linea 39/41/42/43)
+        // (comentando linea 39/41/42/43 y scando el comentario de la linea 49)
 
         //para mostrarlo en pantalla los array van de la mano de los bucles.
 
